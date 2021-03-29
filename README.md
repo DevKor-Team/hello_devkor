@@ -8,7 +8,7 @@
 좋아하는게 너무 많아서 취미는 고르기 힘들지만 그저 노는게 좋은 뽀로로과에요.ㅎㅎ
 
 저는 힙합 좋아해서 비트 찍는 것을 취미로 배워보려고 해요.
-![코드쿤스트](http://www.google.com/url?sa=i&url=https%3A%2F%2Fclass101.net%2Fproducts%2Fv2LrqmCCf1JWL4F38OC6&psig=AOvVaw1vY2Ff7tKSeY9wK3_R0kCu&ust=1617100677548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjA-s2n1e8CFQAAAAAdAAAAABAD)가 되고 싶어용. 
+[코드쿤스트](http://www.google.com/url?sa=i&url=https%3A%2F%2Fclass101.net%2Fproducts%2Fv2LrqmCCf1JWL4F38OC6&psig=AOvVaw1vY2Ff7tKSeY9wK3_R0kCu&ust=1617100677548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjA-s2n1e8CFQAAAAAdAAAAABAD)가 되고 싶어용. 
 다음 학기에는 테라에 지원해서 꼭 들어가고 싶어요
 
 ## 관심사
@@ -18,6 +18,9 @@
 
 그래서 1학기 때 BE,FE 세미나를 들으면서 웹 개발 역량을 쌓을 수 있도록 노력하고
 딥러닝도 차차 배워나가고 싶어요.
+
+또한 저는 뇌과학 관심이 있어서 강인공지능을 위해 연구를 하는 것도 재밌을 것 같습니다.
+자정진에 나온 내용에 비해 뇌와 인공지능은 훨씬 흥미로운 아이들인것 같아요.
 
 ## 하고 싶은말
 비록 컴퓨터학과지만 아직은 컴린이를 담당하고 있습니다ㅠㅠ.
