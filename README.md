@@ -8,7 +8,7 @@
 좋아하는게 너무 많아서 취미는 고르기 힘들지만 그저 노는게 좋은 뽀로로과에요.ㅎㅎ
 
 저는 힙합 좋아해서 비트 찍는 것을 취미로 배워보려고 해요.
-![코드쿤스트](https://www.google.com/url?sa=i&url=https%3A%2F%2Fclass101.net%2Fproducts%2Fv2LrqmCCf1JWL4F38OC6&psig=AOvVaw1vY2Ff7tKSeY9wK3_R0kCu&ust=1617100677548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjA-s2n1e8CFQAAAAAdAAAAABAD)가 되고 싶어용. 
+![코드쿤스트](http://www.google.com/url?sa=i&url=https%3A%2F%2Fclass101.net%2Fproducts%2Fv2LrqmCCf1JWL4F38OC6&psig=AOvVaw1vY2Ff7tKSeY9wK3_R0kCu&ust=1617100677548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjA-s2n1e8CFQAAAAAdAAAAABAD)가 되고 싶어용. 
 다음 학기에는 테라에 지원해서 꼭 들어가고 싶어요
 
 ## 관심사
