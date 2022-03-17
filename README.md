@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/><br>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=ffffff"/>
 </p>
-<p>&nbsp;</p>
 
 ## 하고 싶은말
 이번년도 뎁코 정말 최선을 다해서 준비하였습니다. 여러분들이 뎁코에 기대했던 것 그 이상을 여러분들께 돌려드리기 위해서 많은 노력 기울이겠습니다!
