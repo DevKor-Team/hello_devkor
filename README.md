@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/><br>
+  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/><br> (← 1학년동안 배울거..)
 </p>
 
 ## 하고 싶은 말
