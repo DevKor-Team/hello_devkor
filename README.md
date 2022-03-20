@@ -8,7 +8,7 @@
 ## 🧾 Link
 <a href="https://www.instagram.com/2ooo.2.17/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=ffffff"/>
-</a> : 눈팅 위주로 하고 있지만 인스타 링크를 올려봅니다. 맞팔 환영해요 😉
+</a> : 눈팅 위주로 쓰고 있는 인스타 계정입니다. 맞팔 환영해요 😉
 
 ## 🎲 Hobby
  랩하는거 좋아합니다 🎤 같이 노래방 가실 분 있다면 언제든지 환영해요 ㅋㅋ 음악을 듣는 것도 좋아합니다. (힙합 및 R&B, 발라드, 클래식 등)
