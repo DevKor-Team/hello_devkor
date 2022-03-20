@@ -22,8 +22,8 @@
   <img src="https://img.shields.io/badge/Python-3776ab?style=flat&logo=Python&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat&logo=HTML5&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/> (← 1학년동안 배울거..)<br> 
+  <img src="https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=ffffff"/> (← 1학년동안 배울거, 아직 못함 🥺)<br> 
 </p>
 
 ## 하고 싶은 말
- 이번 학기 스터디로 **Web Development**를 지원하였습니다. 코딩 공부를 시작한지 얼마 안됐지만 선배들 말씀 잘 듣고 따라가면서 **Devkor** 사람들과 좋은 1년 보내고 싶습니다. 화이팅! 감사합니다. 🙂
+ 이번 학기 스터디로 **Web Development**를 지원하였습니다. 코딩 공부를 시작한지 얼마 안됐지만 선배들 말씀 잘 듣고 따라가면서 **Devkor** 동아리 활동 열심히 하고 싶습니다. 화이팅! 감사합니다. 🙂
