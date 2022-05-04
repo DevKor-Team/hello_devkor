@@ -14,7 +14,4 @@ INTJ(P)
 <br/>
 <br/>
 두서없이 적은 자기소개 읽어주셔서 감사합니다.<br/>
-뎁코에서 활동하는 동안 열심히 노력하겠습니다! 
- 
-## 기타 
-![Animation](https://github.com/saamkim/hello_devkor/blob/master/Animation.gif) << 고등학교 때 동아리에서 만든 게임 캐릭터입니다ㅎㅎ 
+뎁코에서 활동하는 동안 열심히 노력하겠습니다!
