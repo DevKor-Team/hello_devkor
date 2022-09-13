@@ -8,7 +8,7 @@
 ## 🧾 Link
 <a href="https://blog.naver.com/brian7479" target="_blank">
     <img src="https://img.shields.io/badge/NAVER Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/>
-</a> : 일상들이나 다시 볼 것들, 메모장, 일기장 등으로 활용하고 있습니다! 서이추 환영입니다 ㅎㅅㅎ<br~>
+</a> : 일상들이나 다시 볼 것들, 메모장, 일기장 등으로 활용하고 있습니다! 서이추 환영입니다 ㅎㅅㅎ<br>
 <a href="https://www.instagram.com/jaeho_814/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-e4405f?style=flat&logo=Instagram&logoColor=ffffff"/>
 </a> : 별건 없지만 친구해주세요..ㅎㅎ!
